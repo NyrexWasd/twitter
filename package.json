@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node .",
-    "install":"i"
+    "start": "node ."
+
   },
   "author": "",
   "license": "ISC",
